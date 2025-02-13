@@ -1,2 +1,2 @@
-# JamfDeviceAdm
-JamfDeviceAdm
+# DeviceAdminly
+DeviceAdminly
